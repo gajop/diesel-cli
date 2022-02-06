@@ -10,7 +10,7 @@ If you want to build your own docker container, setup `DOCKERHUB_USERNAME` and `
 
 Inspired by https://github.com/clux/diesel-cli, but based on Debian buster instead of musl.
 
-Resulting image is 86.5MB.
+Resulting image is 31.28 MB.
 
 I run it with docker-compose, and have it depend on the postgres service being healthy, like so:
 
